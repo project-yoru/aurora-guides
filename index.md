@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -35,3 +36,11 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
+
+# Aurora Guides
+
+## Start Here
+
+[Getting Started with Aurora]({{ site.baseurl }}getting_started)
+

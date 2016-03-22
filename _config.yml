@@ -1,26 +1,35 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+# highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Aurora Guides
+tagline:          Visual novel workshop
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://guides.aurora.project-yoru.com
 baseurl:          /
 
+# TODO
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           Nano WANG
+  url:            https://twitter.com/nano_mid_wang
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
+links:
+  project_yoru: http://www.project-yoru.com
+  aurora_web: http://aurora.project-yoru.com
+# github:
+#   repo:           https://github.com/project-yoru/aurora-guides
 
-github:
-  repo:           https://github.com/poole/hyde
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+pages: ./_pages
