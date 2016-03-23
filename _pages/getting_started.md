@@ -7,7 +7,7 @@ This guide offers an overview of the structure and main concepts of Workshop Aur
 
 ## 1. What is Aurora
 
-Workshop Aurora is a framework for web-based **visual novels** (people also call some of them GalGames). It's designed to be the easiest way for creators to build games from only story scripts and materials.
+Workshop Aurora is a framework for web-based **visual novels** (people also call some of them **GalGames**). It's designed to be the easiest way for creators to build games from only story scripts and materials.
 
 ## 2. First game
 
