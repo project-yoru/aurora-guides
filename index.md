@@ -43,4 +43,3 @@ title: Home
 ## Start Here
 
 [Getting Started with Aurora]({{ site.baseurl }}getting_started)
-
