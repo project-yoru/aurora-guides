@@ -7,4 +7,4 @@ title: Home
 
 ## Start Here
 
-[Getting Started with Aurora]({{ site.baseurl }}getting_started)
+[Getting Started with Aurora]({{ site.github.url }}getting_started)
