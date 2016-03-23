@@ -21,7 +21,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          pre-alpha
 links:
   project_yoru: http://www.project-yoru.com
   aurora_web: http://aurora.project-yoru.com
