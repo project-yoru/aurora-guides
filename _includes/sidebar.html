@@ -2,10 +2,10 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <!-- TODO make a white version brand logo -->
-      <img src="{{ site.baseurl }}public/images/aurora_logo_with_brand_white.png">
+      <img src="{{ site.github.url }}/public/images/aurora_logo_with_brand_white.png">
 <!-- 
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.github.url }}/">
           {{ site.title }}
         </a>
       </h1>
@@ -14,7 +14,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Index</a>
+      <a class="sidebar-nav-item{% if page.url == site.github.url %} active{% endif %}" href="{{ site.github.url }}/">Index</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
