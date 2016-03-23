@@ -25,9 +25,9 @@ version:          pre-alpha
 links:
   project_yoru: http://www.project-yoru.com
   aurora_web: http://aurora.project-yoru.com
-github:
-  repo:           https://github.com/project-yoru/aurora-guides
-  url: https://project-yoru.github.io/aurora
+# github:
+#   repo:           https://github.com/project-yoru/aurora-guides
+#   url: https://project-yoru.github.io/aurora-guides/
 
 gems:
   - jekyll-paginate
