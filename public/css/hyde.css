@@ -93,7 +93,11 @@ html {
   margin: 0 auto;
 }
 
-.sidebar-about .brand h1, h3 {
+.sidebar-about .brand h1 {
+  color: #fff;
+}
+
+.sidebar-about .brand h3 {
   color: #fff;
 }
 
