@@ -33,4 +33,5 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-pages: ./_pages
+# CUSTOM PLUGINS ARE NOT SUPPORTED BY GITHUB PAGES
+# pages: ./_pages
